@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01cfe8d9ecf35a540a1b1db49f5e52c3
+timeCreated: 1542072460
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shotSoundFX: {fileID: 8300000, guid: 1f57e6e6f23ed7f4c8650c74a026e905, type: 3}
+  - reloadSoundFX: {fileID: 8300000, guid: 0519999694b054c458a8f53da333b874, type: 3}
+  - dryfireSoundFX: {fileID: 8300000, guid: 6e0ea37570e3ddd4eb119d179d5dffc6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
