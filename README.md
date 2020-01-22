@@ -3,6 +3,8 @@
 ## About
 JARS is an offline single player rail shooter set in a zombie apocalypse where the player must shoot their way from the beginning to the end of a level. The game incentivizes accuracy, trigger control, and reflexes to reach the top of the scoreboard. The game is made up of a level filled with zombies and a boss.
 
+![image](https://raw.githubusercontent.com/itsjasonc/JARS/master/jars.png)
+
 ## Developers
 
 ### Team 1
